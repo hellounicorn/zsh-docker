@@ -19,4 +19,4 @@ Mirror of https://github.com/docker/cli/blob/master/contrib/completion/zsh for e
 See: https://github.com/docker/cli/blob/master/LICENSE
 
 
-[1]: http://antigen.sharats.me/
+[1]: https://antigen.sharats.me/
